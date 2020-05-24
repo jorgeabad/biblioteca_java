@@ -20,5 +20,5 @@ Aplicación hecha en java para gestionar un biblioteca, permite la gestión de p
 * Otro directorio guarda las imagenes de las publicaciones dadas de Alta.
   * `\imagenes`
 
-Consultar manual [aquí](https://jorgeabad.github.io/biblioteca_java/manual.pdf)
-Documentación [aquí](https://jorgeabad.github.io/biblioteca_java/index.html)
+* Consultar manual [aquí](https://jorgeabad.github.io/biblioteca_java/manual.pdf)
+* Documentación [aquí](https://jorgeabad.github.io/biblioteca_java/index.html)
